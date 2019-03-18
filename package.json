@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "JBW Manger",
+  "description": "JBW Manger",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
